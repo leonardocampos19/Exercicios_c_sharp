@@ -1,0 +1,12 @@
+C:\Users\Leonardo\Desktop\exercicios_c_sharp\exercicios1-estrutura-sequencial\EstruturaSequencial\Exercicio5\obj\Debug\netcoreapp3.1\Exercicio5.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\exercicios_c_sharp\exercicios1-estrutura-sequencial\EstruturaSequencial\Exercicio5\obj\Debug\netcoreapp3.1\Exercicio5.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\exercicios_c_sharp\exercicios1-estrutura-sequencial\EstruturaSequencial\Exercicio5\obj\Debug\netcoreapp3.1\Exercicio5.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\exercicios_c_sharp\exercicios1-estrutura-sequencial\EstruturaSequencial\Exercicio5\bin\Debug\netcoreapp3.1\Exercicio5.exe
+C:\Users\Leonardo\Desktop\exercicios_c_sharp\exercicios1-estrutura-sequencial\EstruturaSequencial\Exercicio5\bin\Debug\netcoreapp3.1\Exercicio5.deps.json
+C:\Users\Leonardo\Desktop\exercicios_c_sharp\exercicios1-estrutura-sequencial\EstruturaSequencial\Exercicio5\bin\Debug\netcoreapp3.1\Exercicio5.runtimeconfig.json
+C:\Users\Leonardo\Desktop\exercicios_c_sharp\exercicios1-estrutura-sequencial\EstruturaSequencial\Exercicio5\bin\Debug\netcoreapp3.1\Exercicio5.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\exercicios_c_sharp\exercicios1-estrutura-sequencial\EstruturaSequencial\Exercicio5\bin\Debug\netcoreapp3.1\Exercicio5.dll
+C:\Users\Leonardo\Desktop\exercicios_c_sharp\exercicios1-estrutura-sequencial\EstruturaSequencial\Exercicio5\bin\Debug\netcoreapp3.1\Exercicio5.pdb
+C:\Users\Leonardo\Desktop\exercicios_c_sharp\exercicios1-estrutura-sequencial\EstruturaSequencial\Exercicio5\obj\Debug\netcoreapp3.1\Exercicio5.dll
+C:\Users\Leonardo\Desktop\exercicios_c_sharp\exercicios1-estrutura-sequencial\EstruturaSequencial\Exercicio5\obj\Debug\netcoreapp3.1\Exercicio5.pdb
+C:\Users\Leonardo\Desktop\exercicios_c_sharp\exercicios1-estrutura-sequencial\EstruturaSequencial\Exercicio5\obj\Debug\netcoreapp3.1\Exercicio5.genruntimeconfig.cache

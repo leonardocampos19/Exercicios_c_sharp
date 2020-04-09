@@ -1,0 +1,13 @@
+C:\Users\Leonardo\Desktop\exercicios_c_sharp\exercicios1-estrutura-sequencial\EstruturaSequencial\Exercicio4\bin\Debug\netcoreapp3.1\Exercicio4.exe
+C:\Users\Leonardo\Desktop\exercicios_c_sharp\exercicios1-estrutura-sequencial\EstruturaSequencial\Exercicio4\bin\Debug\netcoreapp3.1\Exercicio4.deps.json
+C:\Users\Leonardo\Desktop\exercicios_c_sharp\exercicios1-estrutura-sequencial\EstruturaSequencial\Exercicio4\bin\Debug\netcoreapp3.1\Exercicio4.runtimeconfig.json
+C:\Users\Leonardo\Desktop\exercicios_c_sharp\exercicios1-estrutura-sequencial\EstruturaSequencial\Exercicio4\bin\Debug\netcoreapp3.1\Exercicio4.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\exercicios_c_sharp\exercicios1-estrutura-sequencial\EstruturaSequencial\Exercicio4\bin\Debug\netcoreapp3.1\Exercicio4.dll
+C:\Users\Leonardo\Desktop\exercicios_c_sharp\exercicios1-estrutura-sequencial\EstruturaSequencial\Exercicio4\bin\Debug\netcoreapp3.1\Exercicio4.pdb
+C:\Users\Leonardo\Desktop\exercicios_c_sharp\exercicios1-estrutura-sequencial\EstruturaSequencial\Exercicio4\obj\Debug\netcoreapp3.1\Exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\exercicios_c_sharp\exercicios1-estrutura-sequencial\EstruturaSequencial\Exercicio4\obj\Debug\netcoreapp3.1\Exercicio4.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\exercicios_c_sharp\exercicios1-estrutura-sequencial\EstruturaSequencial\Exercicio4\obj\Debug\netcoreapp3.1\Exercicio4.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\exercicios_c_sharp\exercicios1-estrutura-sequencial\EstruturaSequencial\Exercicio4\obj\Debug\netcoreapp3.1\Exercicio4.dll
+C:\Users\Leonardo\Desktop\exercicios_c_sharp\exercicios1-estrutura-sequencial\EstruturaSequencial\Exercicio4\obj\Debug\netcoreapp3.1\Exercicio4.pdb
+C:\Users\Leonardo\Desktop\exercicios_c_sharp\exercicios1-estrutura-sequencial\EstruturaSequencial\Exercicio4\obj\Debug\netcoreapp3.1\Exercicio4.genruntimeconfig.cache
+C:\Users\Leonardo\Desktop\exercicios_c_sharp\exercicios1-estrutura-sequencial\EstruturaSequencial\Exercicio4\obj\Debug\netcoreapp3.1\Exercicio4.csprojAssemblyReference.cache
